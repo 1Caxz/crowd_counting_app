@@ -25,7 +25,7 @@ class _DashboardPageState extends State<DashboardPage> {
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
           BottomNavigationBarItem(
             icon: Icon(Icons.camera_alt),
-            label: 'Upload',
+            label: 'Crowd Counting',
           ),
           BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile'),
         ],

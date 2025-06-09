@@ -38,6 +38,10 @@ dependencies:
   hooks_riverpod: ^2.4.9      # Disiapkan jika ingin pakai Riverpod
   dartz: ^0.10.1              # Untuk Either<Failure, Result> pattern
   shared_preferences: ^2.2.2
+  image_picker: ^1.0.7
+  mime: ^1.0.4
+  path: ^1.8.3
+  cached_network_image: ^3.3.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
